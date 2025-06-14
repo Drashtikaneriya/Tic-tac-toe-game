@@ -1,2 +1,2 @@
-Tic-Tac-Toe Game
-Welcome to the Tic-Tac-Toe game! This is a simple two-player game where you can enter your names and take turns to play Tic-Tac-Toe. The game will display the winner when someone wins.
+Welcome to the Tic-Tac-Toe game! This is a simple two-player game where player 1st is o and 2nd player is X.
+
